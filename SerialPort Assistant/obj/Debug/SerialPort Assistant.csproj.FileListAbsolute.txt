@@ -1,0 +1,10 @@
+D:\DevelopSoftwareData\Projects\C#\SerialPort Assistant\SerialPort Assistant\bin\Debug\SerialPort Assistant.exe.config
+D:\DevelopSoftwareData\Projects\C#\SerialPort Assistant\SerialPort Assistant\bin\Debug\SerialPort Assistant.exe
+D:\DevelopSoftwareData\Projects\C#\SerialPort Assistant\SerialPort Assistant\bin\Debug\SerialPort Assistant.pdb
+D:\DevelopSoftwareData\Projects\C#\SerialPort Assistant\SerialPort Assistant\obj\Debug\SerialPort Assistant.csproj.AssemblyReference.cache
+D:\DevelopSoftwareData\Projects\C#\SerialPort Assistant\SerialPort Assistant\obj\Debug\SerialPort_Assistant.Form1.resources
+D:\DevelopSoftwareData\Projects\C#\SerialPort Assistant\SerialPort Assistant\obj\Debug\SerialPort_Assistant.Properties.Resources.resources
+D:\DevelopSoftwareData\Projects\C#\SerialPort Assistant\SerialPort Assistant\obj\Debug\SerialPort Assistant.csproj.GenerateResource.cache
+D:\DevelopSoftwareData\Projects\C#\SerialPort Assistant\SerialPort Assistant\obj\Debug\SerialPort Assistant.csproj.CoreCompileInputs.cache
+D:\DevelopSoftwareData\Projects\C#\SerialPort Assistant\SerialPort Assistant\obj\Debug\SerialPort Assistant.exe
+D:\DevelopSoftwareData\Projects\C#\SerialPort Assistant\SerialPort Assistant\obj\Debug\SerialPort Assistant.pdb
